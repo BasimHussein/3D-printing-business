@@ -46,6 +46,9 @@ ul {
   list-style: none;
   padding: 0;
 }
+.pricing-li{
+  margin-bottom: 15px;
+}
 
 /* Navbar */
 .navbar {
